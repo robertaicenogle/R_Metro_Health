@@ -64,7 +64,7 @@
 - Notice four panes laid out within the application window
   - The bottom-left pane contains the R console
   - The top-left pane contains your source, or (any RScripts, tables, and files you open within RStudio)
-  - By default, RStudio will open an untitled RScript file in the pane
+    - By default, RStudio will open an untitled RScript file in the pane
   - The top-right pane contains our environment objects, such as variables, functions, and data frames
   - On the bottom right is the multi-tool pane, which contains tabs for a file explorer, R documentation help, installed package list, and a plot viewing tool
 
