@@ -72,8 +72,7 @@
 - **tidyverse** ([Links to an external site.](https://www.tidyverse.org/)) simplifies the installation process for the most common data analysis packages in R
 -  To install packages in our R environment, use the install.packages() function
 -  to install the tidyverse in our R environment, simply run the following command in the R console:
-
-| > install.packages("tidyverse") |
+-  |  > install.packages("tidyverse")  |
 
 # Programming and ETL in R
 ## 2.1 Fundamentals of R Programming
