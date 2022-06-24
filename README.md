@@ -122,7 +122,7 @@ Two fundamental components to programming in R are:
 - Using **functions**
   - functions perform operations
 
-- More advanced R data structures can refer to the ([R Introduction documentation](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf))
+- More advanced R data structures can refer to the [R Introduction documentation](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf)
 
 ## 2.2 Functions in R
 
