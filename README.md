@@ -54,14 +54,14 @@
   - Use all default install options and, if prompted, check all boxes to allow all R components to install.
 
 ## 1.3 Install R Studio
--  Navigate to the RStudio Download Page ([Links to an external site.](https://www.rstudio.com/products/rstudio/download/?utm_source=downloadrstudio&utm_medium=Site&utm_campaign=home-hero-cta#download))
--  Select the most appropriate installer link
-  -  If you're using **macOS**, drag the RStudio application into your application folder
-  -  If you're a **Windows** user, run it through the installer as you would with any other Windows program
--  Once you have R and RStudio installed, run RStudio for the first time, get acquainted with the software, and install our required packages
+- Navigate to the RStudio Download Page ([Links to an external site.](https://www.rstudio.com/products/rstudio/download/?utm_source=downloadrstudio&utm_medium=Site&utm_campaign=home-hero-cta#download))
+- Select the most appropriate installer link
+  - If you're using **macOS**, drag the RStudio application into your application folder
+  - If you're a **Windows** user, run it through the installer as you would with any other Windows program
+- Once you have R and RStudio installed, run RStudio for the first time, get acquainted with the software, and install our required packages
 
 ### Navigate and Configure RStudio
--  Notice four panes laid out within the application window
+- Notice four panes laid out within the application window
   -  The bottom-left pane contains the R console
   -  The top-left pane contains your source, or (any RScripts, tables, and files you open within RStudio)
   -  By default, RStudio will open an untitled RScript file in the pane
