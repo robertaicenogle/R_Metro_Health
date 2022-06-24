@@ -62,21 +62,21 @@
 
 ### Navigate and Configure RStudio
 - Notice four panes laid out within the application window
-  -  The bottom-left pane contains the R console
-  -  The top-left pane contains your source, or (any RScripts, tables, and files you open within RStudio)
-  -  By default, RStudio will open an untitled RScript file in the pane
-  -  The top-right pane contains our environment objects, such as variables, functions, and data frames
-  -  On the bottom right is the multi-tool pane, which contains tabs for a file explorer, R documentation help, installed package list, and a plot viewing tool
+  - The bottom-left pane contains the R console
+  - The top-left pane contains your source, or (any RScripts, tables, and files you open within RStudio)
+  - By default, RStudio will open an untitled RScript file in the pane
+  - The top-right pane contains our environment objects, such as variables, functions, and data frames
+  - On the bottom right is the multi-tool pane, which contains tabs for a file explorer, R documentation help, installed package list, and a plot viewing tool
 
 ### Install Required Libraries
 - **tidyverse** ([Links to an external site.](https://www.tidyverse.org/)) simplifies the installation process for the most common data analysis packages in R
--  To install packages in our R environment, use the install.packages() function
--  to install the tidyverse in our R environment, simply run the following command in the R console:
-  -  |  > install.packages("tidyverse")  |
+- To install packages in our R environment, use the install.packages() function
+- to install the tidyverse in our R environment, simply run the following command in the R console:
+  - |  > install.packages("tidyverse")  |
 
 ### Install jsonlite
 - To install jsonlite page, run the following in the R console:
-  -  |  > install.packages("jsonlite")  |
+  - |  > install.packages("jsonlite")  |
 - When installing packages in R, be sure to wrap the package name in quotation marks, otherwise R will throw an error.
 
 ### Create a Working Directory Folder Structure
