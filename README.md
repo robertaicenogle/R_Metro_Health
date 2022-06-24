@@ -1,4 +1,4 @@
-# R_Metro_Health
+# R_and R Studio
 ## Statistical Analysis and Hypothesis Testing in R
 ### The basic process to analyze datasets using R:
 - Extract, Transform, and Load (ETL) data
@@ -18,6 +18,8 @@
 - Identify key characteristics of **A/B testing**.
 - Determine the most appropriate statistical test for a given hypothesis and dataset.
 
+# Getting Started with R
+## 1.1 Introduction to R
 ### Benefits of R
 - Versatile and extensible programming language with many benefits
 - Scripts are written in plaintext
@@ -32,10 +34,25 @@
 - RStudio enables users to test their analysis scripts line by line while allowing users to view different environment variables and outputs
 - This means that for each line of code written and executed, users can verify the results and troubleshoot any problems quickly and easily
 
-## Install R
+## 1.2 Install R
 - We must first install R before installing RStudio
 - This way, RStudio can easily find our R installation while being configured
 - Otherwise, we would have to manually tell RStudio where to find our installed applications
 
 ### - Install R on macOS or Windows
-- Navigate to R's Comprehensive R Archive Network (CRAN) server ([Links to an external site.](https://cran.r-project.org/mirrors.html)) and select a mirror link near our region.
+- Navigate to R's Comprehensive R Archive Network (CRAN) server ([Links to an external site.](https://cran.r-project.org/mirrors.html))
+- Select a mirror link near our region
+- After you navigate to a CRAN mirror site, you'll reach a self-explanatory download page
+- For those running a **macOS** environment, select the latest release .pkg file
+- For those running a **Windows** environment, click on the base installer link
+- On the next page, click the "Download R for Windows" link to start downloading the installer
+
+### Following Successful Download
+- Once your installer files are successfully downloaded (.pkg for macOS or .exe for Windows), run them just as you would for any other installation program
+- Use all default install options and, if prompted, check all boxes to allow all R components to install.
+
+## 1.3 Install R Studio
+
+
+# Programming and ETL in R
+##
