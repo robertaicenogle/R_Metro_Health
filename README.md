@@ -38,45 +38,45 @@
 
 ## 1.2 Install R
 - We must first install R before installing RStudio
-- This way, RStudio can easily find our R installation while being configured
-- Otherwise, we would have to manually tell RStudio where to find our installed applications
+  - This way, RStudio can easily find our R installation while being configured
+  - Otherwise, we would have to manually tell RStudio where to find our installed applications
 
 ### Install R on macOS or Windows
 - Navigate to R's Comprehensive R Archive Network (CRAN) server ([Links to an external site.](https://cran.r-project.org/mirrors.html))
 - Select a mirror link near our region
 - After you navigate to a CRAN mirror site, you'll reach a self-explanatory download page
-- For those running a **macOS** environment, select the latest release .pkg file
-- For those running a **Windows** environment, click on the base installer link
+  - For those running a **macOS** environment, select the latest release .pkg file
+  - For those running a **Windows** environment, click on the base installer link
 - On the next page, click the "Download R for Windows" link to start downloading the installer
 
 ### Following Successful Download
 - Once your installer files are successfully downloaded (.pkg for macOS or .exe for Windows), run them just as you would for any other installation program
-- Use all default install options and, if prompted, check all boxes to allow all R components to install.
+  - Use all default install options and, if prompted, check all boxes to allow all R components to install.
 
 ## 1.3 Install R Studio
 -  Navigate to the RStudio Download Page ([Links to an external site.](https://www.rstudio.com/products/rstudio/download/?utm_source=downloadrstudio&utm_medium=Site&utm_campaign=home-hero-cta#download))
--  select the most appropriate installer link
--  If you're using **macOS**, drag the RStudio application into your application folder
--  If you're a **Windows** user, run it through the installer as you would with any other Windows program
+-  Select the most appropriate installer link
+  -  If you're using **macOS**, drag the RStudio application into your application folder
+  -  If you're a **Windows** user, run it through the installer as you would with any other Windows program
 -  Once you have R and RStudio installed, run RStudio for the first time, get acquainted with the software, and install our required packages
 
 ### Navigate and Configure RStudio
--  notice four panes laid out within the application window
--  The bottom-left pane contains the R console
--  The top-left pane contains your source, or (any RScripts, tables, and files you open within RStudio)
--  By default, RStudio will open an untitled RScript file in the pane
--  The top-right pane contains our environment objects, such as variables, functions, and data frames
--  On the bottom right is the multi-tool pane, which contains tabs for a file explorer, R documentation help, installed package list, and a plot viewing tool
+-  Notice four panes laid out within the application window
+  -  The bottom-left pane contains the R console
+  -  The top-left pane contains your source, or (any RScripts, tables, and files you open within RStudio)
+  -  By default, RStudio will open an untitled RScript file in the pane
+  -  The top-right pane contains our environment objects, such as variables, functions, and data frames
+  -  On the bottom right is the multi-tool pane, which contains tabs for a file explorer, R documentation help, installed package list, and a plot viewing tool
 
 ### Install Required Libraries
 - **tidyverse** ([Links to an external site.](https://www.tidyverse.org/)) simplifies the installation process for the most common data analysis packages in R
 -  To install packages in our R environment, use the install.packages() function
 -  to install the tidyverse in our R environment, simply run the following command in the R console:
--  |  > install.packages("tidyverse")  |
+  -  |  > install.packages("tidyverse")  |
 
 ### Install jsonlite
 - To install jsonlite page, run the following in the R console:
--  |  > install.packages("jsonlite")  |
+  -  |  > install.packages("jsonlite")  |
 - When installing packages in R, be sure to wrap the package name in quotation marks, otherwise R will throw an error.
 
 ### Create a Working Directory Folder Structure
