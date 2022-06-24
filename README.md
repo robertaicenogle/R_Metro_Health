@@ -69,7 +69,11 @@
 -  On the bottom right is the multi-tool pane, which contains tabs for a file explorer, R documentation help, installed package list, and a plot viewing tool
 
 ### Install Required Libraries
-- tidyverse ([Links to an external site.](https://www.tidyverse.org/)) simplifies the installation process for the most common data analysis packages in R
+- **tidyverse** ([Links to an external site.](https://www.tidyverse.org/)) simplifies the installation process for the most common data analysis packages in R
+-  To install packages in our R environment, use the install.packages() function
+-  to install the tidyverse in our R environment, simply run the following command in the R console:
+
+> install.packages("tidyverse")
 
 # Programming and ETL in R
 ## 2.1 Fundamentals of R Programming
