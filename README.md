@@ -106,8 +106,23 @@ Two fundamental components to programming in R are:
     - to create a named value x and assign it a value of 3, we would use this R command:
       - | > x <- 3 |
     - The **assignment operator (<-)** tells R to assign whatever is right of the arrow to the name that is left of the arrow
+    - The named value should appear in your environmental pane
+  - In R, all environment objects are mutable, which means they can be assigned and reassigned multiple times.
+  - Another simple data structure in R is the **numeric vector**
+    - A numeric vector is an ordered list of numbers
+      - To create a numeric vector, we use the c()function
+        - Use the following command to assign the numeric vector, numlist, into the environment:
+          - | > numlist <- c(0, 1, 2, 3, 4, 5, 6, 7, 8, 9) |
+  - R also supports a number of more advanced data structures such as **matrices**, **data frames**, and **tibbles**
+    - all of which are variations of the same data frame concept
+      - A matrix can be thought of as a vector of vectors, where each value in the matrix is the same data type
+      - A data frame is very similar to a Pandas DataFrame where each column can be a different data type
+      - A tibble is a recent data object introduced by the tidyverse package in R and is an optimized data frame with extra metadata and features
+
 - Using **functions**
   - functions perform operations
+
+- More advanced R data structures can refer to the ([R Introduction documentation] https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf)
 
 ## 2.2 Functions in R
 
