@@ -1,4 +1,6 @@
 # R and R Studio
+
+
 ## Statistical Analysis and Hypothesis Testing in R
 ### The basic process to analyze datasets using R:
 - Extract, Transform, and Load (ETL) data
@@ -19,7 +21,7 @@
 - Determine the most appropriate statistical test for a given hypothesis and dataset.
 
 # Getting Started with R
-## 1.1: Introduction to R
+## 1.1 Introduction to R
 ### Benefits of R
 - Versatile and extensible programming language with many benefits
 - Scripts are written in plaintext
@@ -34,7 +36,7 @@
 - RStudio enables users to test their analysis scripts line by line while allowing users to view different environment variables and outputs
 - This means that for each line of code written and executed, users can verify the results and troubleshoot any problems quickly and easily
 
-## 1.2: Install R
+## 1.2 Install R
 - We must first install R before installing RStudio
 - This way, RStudio can easily find our R installation while being configured
 - Otherwise, we would have to manually tell RStudio where to find our installed applications
@@ -51,8 +53,103 @@
 - Once your installer files are successfully downloaded (.pkg for macOS or .exe for Windows), run them just as you would for any other installation program
 - Use all default install options and, if prompted, check all boxes to allow all R components to install.
 
-## 1.3: Install R Studio
+## 1.3 Install R Studio
 
 
 # Programming and ETL in R
-## 2.1: Fundamentals of R Programming
+## 2.1 Fundamentals of R Programming
+
+
+## 2.2 Functions in R
+
+
+## 2.3 Read and Write Using R
+
+
+## 2.4 Select Data in R
+
+
+## 2.5 Transform, Group, and Reshape Data Using the Tidyverse Package
+
+
+# Visualize Your Data Using ggplot2
+## 3.1 Introduction to ggplot2
+
+
+## 3.2 Build a Bar Plot in ggplot2
+
+
+## 3.3 Add Formatting Functions
+
+
+## 3.4 Build a Line Plot in ggplot2
+
+
+## 3.5 Create Advanced Boxplots in ggplot2
+
+
+## 3.6 Create Heatmap Plots
+
+
+## 3.7 Add Layers to Plots
+
+
+# Introduction to Statistical Tests
+## 4. 1 Identifying Statistical Test Types
+
+
+## 4. 2 Identify Different Data Types
+
+
+## 4. 3 Dive Into Distributions
+
+
+## 4. 4 Test for Normality
+
+
+## 4. 5 Understand Skew
+
+
+# Introduction to Hypothesis Testing
+## 5.1 Practice Hypothesis Testing
+
+
+## 5.2 Assess Error in Hypothesis Testing
+
+
+# Perform an Analysis of Means in R
+## 6.1 Sample Versus Population Dataset
+
+
+## 6.2 Use the One-Sample t-Test
+
+
+## 6.3 Use the Two-Sample t-Test
+
+
+## 6.4 Use the Two-Sample t-Test to Compare Samples
+
+
+## 6.5 Use the ANOVA Test
+
+
+# Correlation and Regression in R
+## 7.1 The Correlation Conundrum
+
+
+## 7.2 Return to Linear Regression
+
+
+## 7.3 Perform Multiple Linear Regression
+
+
+# Characterize Categorical Data
+## 8.1 Category Complexities
+
+
+# Getting Real With A/B Testing
+## 9.1 Practice A/B Testing
+
+
+# Choose the Right Test for Your Data
+## 10.1 Whose Analysis Is It Anyway?
