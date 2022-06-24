@@ -54,7 +54,10 @@
 - Use all default install options and, if prompted, check all boxes to allow all R components to install.
 
 ## 1.3 Install R Studio
--  Navigate to the RStudio Download Page ([Links to an external site.](https://www.rstudio.com/products/rstudio/download/?utm_source=downloadrstudio&utm_medium=Site&utm_campaign=home-hero-cta#download)) and select the most appropriate installer link
+-  Navigate to the RStudio Download Page ([Links to an external site.](https://www.rstudio.com/products/rstudio/download/?utm_source=downloadrstudio&utm_medium=Site&utm_campaign=home-hero-cta#download))
+-  select the most appropriate installer link
+-  If you're using **macOS**, drag the RStudio application into your application folder
+-  If you're a **Windows** user, run it through the installer as you would with any other Windows program
 
 # Programming and ETL in R
 ## 2.1 Fundamentals of R Programming
