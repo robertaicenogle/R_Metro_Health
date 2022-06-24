@@ -83,13 +83,13 @@
 - Allow us to keep all of our RScripts and analysis results in a neat, organized structure
 - Simplifies the process of reading in any external files into our R environment
 - Follow these steps to create a working directory in R:
-1. Make a folder on your computer called "R_Analysis," or whatever would help identify your R analysis and scripts folder.
-2. In the R menu screen, go to Session, click Set Working Directory, then select Choose Directory
-3. Navigate to the folder on your computer and select Open. 
+- 1. Make a folder on your computer called "R_Analysis," or whatever would help identify your R analysis and scripts folder.
+- 2. In the R menu screen, go to Session, click Set Working Directory, then select Choose Directory
+- 3. Navigate to the folder on your computer and select Open. 
 - If you click on the Files tab in your bottom-right multi-tool pane, notice that the folder now represents your active working directory
-4. Now create a new folder in your active directory using the "New Folder" button. 
+- 4. Now create a new folder in your active directory using the "New Folder" button. 
 - Once you have created the folder, press the refresh ( ) button to refresh the directory to see your new folder
-5. Use the file pane and click on the folder to navigate within it. 
+- 5. Use the file pane and click on the folder to navigate within it. 
 - Within the file pane, click on More and select the Set As Working Directory option to make your this new folder your new working directory
 - To set a folder as your default working directory, go to Tools, Global Options, General, and specify the location of the folder
 - Feel free to make subfolders within your R_Analysis folder, but be sure to always change your working directory so your output tables and figures do not get lost
