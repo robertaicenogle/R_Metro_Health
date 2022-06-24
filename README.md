@@ -26,3 +26,16 @@
 - Process of loading in a dataset, visualizing the data, and performing statistical tests is straightforward and easy to interpret
 - Many useful data transformation and modelling libraries, such as the tidyverse package, that simplify the process of ETL and visualizations
 
+### RStudio Integrated Development Environment
+- RStudio is an integrated development environment (IDE) used to help design and test RScripts
+- RStudio provides users a graphical user interface (GUI) with multiple dynamic windows and perpetual access to their RScript and R console
+- RStudio enables users to test their analysis scripts line by line while allowing users to view different environment variables and outputs
+- This means that for each line of code written and executed, users can verify the results and troubleshoot any problems quickly and easily
+
+## Install R
+- We must first install R before installing RStudio
+- This way, RStudio can easily find our R installation while being configured
+- Otherwise, we would have to manually tell RStudio where to find our installed applications
+
+### - Install R on macOS or Windows
+- Navigate to R's Comprehensive R Archive Network (CRAN) server ([Links to an external site.](https://cran.r-project.org/mirrors.html)) and select a mirror link near our region.
