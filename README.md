@@ -99,7 +99,8 @@
 Two fundamental components to programming in R are:
 - Creating **data structures**
   - data structures store values and properties
-  - most straightforward R data structures are **named values** (single value that has been given a name) and **vectors** (list of numbers are assigned a location and stored as a single data structure)
+  - most straightforward R data structures are **named values** and **vectors** (list of numbers are assigned a location and stored as a single data structure)
+      - named values - single value that has been given a name
 - Using **functions**
   - functions perform operations
 
