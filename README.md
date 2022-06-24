@@ -102,6 +102,10 @@ Two fundamental components to programming in R are:
   - most straightforward R data structures are **named values** and **vectors**
       - named values - single value that has been given a name
       - vectors - list of numbers are assigned a location and stored as a single data structure
+  - To create our first data structure in R, we use an assignment statement
+    - to create a named value x and assign it a value of 3, we would use this R command:
+      - | > x <- 3 |
+    - The **assignment operator (<-)** tells R to assign whatever is right of the arrow to the name that is left of the arrow
 - Using **functions**
   - functions perform operations
 
