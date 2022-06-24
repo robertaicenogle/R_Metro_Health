@@ -1,4 +1,4 @@
-# R_and R Studio
+# R and R Studio
 ## Statistical Analysis and Hypothesis Testing in R
 ### The basic process to analyze datasets using R:
 - Extract, Transform, and Load (ETL) data
