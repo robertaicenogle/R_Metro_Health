@@ -42,7 +42,7 @@
   - Otherwise, we would have to manually tell RStudio where to find our installed applications
 
 ### Install R on macOS or Windows
-- Navigate to R's Comprehensive R Archive Network (CRAN) server ([Links to an external site.](https://cran.r-project.org/mirrors.html))
+- Navigate to R's Comprehensive R Archive Network (CRAN) server ([Link](https://cran.r-project.org/mirrors.html))
 - Select a mirror link near our region
 - After you navigate to a CRAN mirror site, you'll reach a self-explanatory download page
   - For those running a **macOS** environment, select the latest release .pkg file
@@ -54,7 +54,7 @@
   - Use all default install options and, if prompted, check all boxes to allow all R components to install.
 
 ## 1.3 Install R Studio
-- Navigate to the RStudio Download Page ([Links to an external site.](https://www.rstudio.com/products/rstudio/download/?utm_source=downloadrstudio&utm_medium=Site&utm_campaign=home-hero-cta#download))
+- Navigate to the RStudio Download Page ([Link](https://www.rstudio.com/products/rstudio/download/?utm_source=downloadrstudio&utm_medium=Site&utm_campaign=home-hero-cta#download))
 - Select the most appropriate installer link
   - If you're using **macOS**, drag the RStudio application into your application folder
   - If you're a **Windows** user, run it through the installer as you would with any other Windows program
