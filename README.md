@@ -19,7 +19,7 @@
 - Determine the most appropriate statistical test for a given hypothesis and dataset.
 
 # Getting Started with R
-## 1.1 Introduction to R
+## 1.1: Introduction to R
 ### Benefits of R
 - Versatile and extensible programming language with many benefits
 - Scripts are written in plaintext
@@ -34,7 +34,7 @@
 - RStudio enables users to test their analysis scripts line by line while allowing users to view different environment variables and outputs
 - This means that for each line of code written and executed, users can verify the results and troubleshoot any problems quickly and easily
 
-## 1.2 Install R
+## 1.2: Install R
 - We must first install R before installing RStudio
 - This way, RStudio can easily find our R installation while being configured
 - Otherwise, we would have to manually tell RStudio where to find our installed applications
@@ -51,8 +51,8 @@
 - Once your installer files are successfully downloaded (.pkg for macOS or .exe for Windows), run them just as you would for any other installation program
 - Use all default install options and, if prompted, check all boxes to allow all R components to install.
 
-## 1.3 Install R Studio
+## 1.3: Install R Studio
 
 
 # Programming and ETL in R
-##
+## 2.1: Fundamentals of R Programming
