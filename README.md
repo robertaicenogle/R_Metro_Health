@@ -133,19 +133,19 @@
 
 
 # Introduction to Statistical Tests
-## 4. 1 Identifying Statistical Test Types
+## 4.1 Identifying Statistical Test Types
 
 
-## 4. 2 Identify Different Data Types
+## 4.2 Identify Different Data Types
 
 
-## 4. 3 Dive Into Distributions
+## 4.3 Dive Into Distributions
 
 
-## 4. 4 Test for Normality
+## 4.4 Test for Normality
 
 
-## 4. 5 Understand Skew
+## 4.5 Understand Skew
 
 
 # Introduction to Hypothesis Testing
